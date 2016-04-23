@@ -18,7 +18,7 @@ tags: hexo
       branch: branch // master or gh-pages
       message: message // 預設是 Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
     ```
-  * 以下兩個都是 Deploy After Generating 的意思
+  * 以下兩個都是先產生檔案再部署的意思
     ```bash
     // 以下二選一
     hexo g --d
