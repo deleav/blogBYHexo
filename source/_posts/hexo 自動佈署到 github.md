@@ -25,3 +25,7 @@ tags: hexo
     hexo d --g
     // d(deploy), g(generate) --> 簡寫(原始指令)
     ```
+
+# ref.
+  * [Hexo Deployment](https://hexo.io/docs/deployment.html)
+  * [Hexo Generating](https://hexo.io/docs/generating.html)
