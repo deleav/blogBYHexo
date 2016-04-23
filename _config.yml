@@ -69,5 +69,5 @@ theme: minos
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/deleav/deleav.github.io
+  repository: git@github.com:deleav/deleav.github.io
   branch: master
