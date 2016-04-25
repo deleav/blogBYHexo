@@ -4,7 +4,7 @@ categories: 開發環境
 tags: hexo
 ---
 
-![Brick wall](https://pixabay.com/static/uploads/photo/2016/03/16/11/16/background-1260304_960_720.jpg)
+![別再用頭去撞牆了](https://pixabay.com/static/uploads/photo/2016/03/16/11/16/background-1260304_960_720.jpg)
 
 <!-- more -->
 

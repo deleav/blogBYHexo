@@ -7,24 +7,25 @@ tags:
   - coding
 ---
 
-![Crystal Ball](https://pixabay.com/static/uploads/photo/2016/03/06/05/02/new-brighton-1239724_960_720.jpg)
+![曙光](https://pixabay.com/static/uploads/photo/2016/03/06/05/02/new-brighton-1239724_960_720.jpg)
 
 <!-- more -->
 
 # 如何備份 atom package lists
   * backup
-    ```
+    ```bash
     apm list --installed --bare > packages.list
     ```
     會在當前目錄下產生 packages.list
+
   * install all
-    ```
+    ```bash
     apm install `cat packages.list`
     ```
 
 # My atom package list
 
-```
+```json
 atom-beautify@0.29.6
 atom-jade@0.3.0
 autocomplete-modules@1.4.1
