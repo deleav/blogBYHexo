@@ -7,7 +7,7 @@ tags:
   - coding
 ---
 
-![曙光](https://pixabay.com/static/uploads/photo/2016/03/06/05/02/new-brighton-1239724_960_720.jpg)
+![早晨](/imgs/img1.jpg)
 
 <!-- more -->
 
@@ -24,6 +24,8 @@ tags:
     ```
 
 # My atom package list
+
+* [package.list](https://github.com/deleav/atom-setting-backup/blob/master/packages.list)
 
 ```json
 atom-beautify@0.29.6

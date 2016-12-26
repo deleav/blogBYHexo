@@ -4,7 +4,7 @@ categories: 開發環境
 tags: hexo
 ---
 
-![別再用頭去撞牆了](https://pixabay.com/static/uploads/photo/2016/03/16/11/16/background-1260304_960_720.jpg)
+![燈塔](/imgs/img2.jpg)
 
 <!-- more -->
 
@@ -21,8 +21,8 @@ tags: hexo
   * 以下兩個都是先產生檔案再部署的意思
     ```bash
     // 以下二選一
-    hexo g --d
-    hexo d --g
+    hexo g -d
+    hexo d -g
     // d(deploy), g(generate) --> 簡寫(原始指令)
     ```
 
