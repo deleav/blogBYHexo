@@ -4,7 +4,7 @@ categories: 開發環境
 tags: hexo
 ---
 
-![燈塔](/imgs/img2.jpg)
+![燈塔](/imgs/hexo-自動佈署到-github.jpg)
 
 <!-- more -->
 

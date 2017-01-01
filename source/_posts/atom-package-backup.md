@@ -7,7 +7,7 @@ tags:
   - coding
 ---
 
-![早晨](/imgs/img1.jpg)
+![早晨](/imgs/atom-package-backup.jpg)
 
 <!-- more -->
 
